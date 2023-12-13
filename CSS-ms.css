@@ -1,12 +1,22 @@
 body {background: black;
       font-family: Downtown, Serif, serif;
       color: ghostwhite; }
-#lg {padding-left: 700px;
+#lg {text-align: center;
      font-family: Amarante, Serif, serif; }
-#im1 {padding-left: 550px;}
+#im1 {padding-left: 600px;}
 #he1 {padding-left: 750px;}
-#ot1 {padding-left: 300px;}
-#red {color: crimson;}
-#blue {color: dodgerblue;}
-#h2 {padding-left: 380px;}
+#ot1 {padding-left: 350px;}
+#h2 {text-align: center;}
 #rt {padding-left: 20px;}
+#retr {width: 400px;
+       text-align: center;
+       margin-left: auto;
+       margin-right: auto;}
+.item p {display: inline-block;}
+#red {color: crimson;
+      text-align: right;
+      width: 31%; }
+#blue {color: dodgerblue;
+      text-align: right;
+      width: 50%; }
+
